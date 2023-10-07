@@ -32,19 +32,19 @@
 
 #### 对本机的vscode的添加远程插件
 
-![image-20231007143912827](G:\source\mygithub\ToolInstall\assets\image-20231007143912827-1696660766472-1.png)
+![image-20231007143912827](G:\source\mygithub\ToolInstall\vscode远程开发配置\assets\image-20231007143912827-1696660766472-1.png)
 
 #### 配置被远程机器
 
-1. 添加机器![image-20231007144154269](G:\source\mygithub\ToolInstall\assets\image-20231007144154269.png)
+1. 添加机器![image-20231007144154269](G:\source\mygithub\ToolInstall\vscode远程开发配置\assets\image-20231007144154269.png)
 
 2. 增加配置
 
-![image-20231007144335878](G:\source\mygithub\ToolInstall\assets\image-20231007144335878.png)
+![image-20231007144335878](G:\source\mygithub\ToolInstall\vscode远程开发配置\assets\image-20231007144335878.png)
 
 3. 编辑配置
 
-   ![image-20231007144503863](G:\source\mygithub\ToolInstall\assets\image-20231007144503863.png)
+   ![image-20231007144503863](G:\source\mygithub\ToolInstall\vscode远程开发配置\assets\image-20231007144503863.png)
 
    
 
@@ -52,7 +52,7 @@
 
      > 点击按钮后会在配置中自动增加一个对应192.168.11.7的配置，需要手动补充对于SSH的配置
 
-     ![image-20231007144934222](G:\source\mygithub\ToolInstall\assets\image-20231007144934222.png)
+     ![image-20231007144934222](G:\source\mygithub\ToolInstall\vscode远程开发配置\assets\image-20231007144934222.png)
 
 	+ 这是一个完整的配置
 ```shell
